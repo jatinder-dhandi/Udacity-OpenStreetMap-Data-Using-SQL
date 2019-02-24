@@ -1,0 +1,18 @@
+
+References:
+
+Udacity Sources:
+Working with CSVs
+Quiz: B API - Playground
+Quiz: Improving Street Names
+Quiz: Preparing for Database - SQL
+Quiz: Preparing for Database - SQL (schema.py)
+
+
+https://stackoverflow.com/questions/2400504/easiest-way-to-replace-a-string-using-a-dictionary-of-replacements.
+
+http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-python/
+
+https://www.geeksforgeeks.org/xml-parsing-python/
+
+https://www.dataquest.io/blog/python-pandas-databases/
